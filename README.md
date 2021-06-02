@@ -63,10 +63,10 @@ react native 清除缓存第三方库
       
       
 # 使用方法
-## npm i react-native-clear-cache-lcm -save
+## https://github.com/1710797241/react-native-clear-cache-lcm#readme
 
 ## 自动配置
-执行此命令
+react-native 0.6以下执行此命令
 #### react-native link
 
 ## 手动配置
