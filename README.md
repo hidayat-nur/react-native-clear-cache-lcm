@@ -1,4 +1,4 @@
-# react-native-clear-cache-lcm
+# react-native-yiyi-clear-cache 
 react native 清除缓存第三方库
 ![Mou icon1](/assets/a1.gif)
 ### 导出方法
@@ -63,7 +63,7 @@ react native 清除缓存第三方库
       
       
 # 使用方法
-## https://github.com/1710797241/react-native-clear-cache-lcm#readme
+## npm i react-native-yiyi-clear-cache 
 
 ## 自动配置
 react-native 0.6以下执行此命令
