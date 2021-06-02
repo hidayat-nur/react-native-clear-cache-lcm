@@ -2,9 +2,8 @@
 //  RCTClearCacheModule.m
 //  RCTClearCacheModule
 //
-//  Created by 郄佩佩 on 2017/7/7.
-//  Copyright © 2017年 郄佩佩. All rights reserved.
-//
+
+
 
 #import "RCTClearCacheModule.h"
 

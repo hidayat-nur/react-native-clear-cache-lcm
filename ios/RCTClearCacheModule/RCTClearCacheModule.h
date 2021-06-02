@@ -1,9 +1,15 @@
+/*
+ * @Date: 2021-06-02 14:21:44
+ * @Author: Do not edit
+ * @LastEditors: qiye
+ * @LastEditTime: 2021-06-02 14:34:54
+ * @FilePath: /react-native-clear-cache-lcm/ios/RCTClearCacheModule/RCTClearCacheModule.h
+ */
 //
 //  RCTClearCacheModule.h
 //  RCTClearCacheModule
 //
-//  Created by 郄佩佩 on 2017/7/7.
-//  Copyright © 2017年 郄佩佩. All rights reserved.
+
 //
 
 #import <Foundation/Foundation.h>
